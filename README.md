@@ -292,7 +292,7 @@ Use this repo to share and keep track of any tech-related internships. For a [Go
 |[HashiCorp](https://www.hashicorp.com/job/2366164) | Remote | |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4124922003) | SF | |
 |Hulu| Santa Monica | **Closed** |
-|[Twitter](https://urapplication2021.splashthat.com/) | Remote | |
+|[Twitter](https://urapplication2021.splashthat.com/) | Remote |https://twitterudiversity.splashthat.com |(Zari's edit)
 |[Oscar Health](https://boards.greenhouse.io/embed/job_app?token=2354915) | NYC | |
 |[Red Hat](https://us-redhat.icims.com/jobs/81433/software-engineering%2c-intern/job?hub=7&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Remote | |
 |[Zebra Technologies](https://early-careers-zebra.icims.com/jobs/90588/2021-summer-internship---computer-vision/job?mobile=false&width=1241&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | NY | |
